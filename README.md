@@ -4,7 +4,7 @@ A Python forecaster for the GTA VI trophy rates on Exophase. It reads one
 case at a time, works out where each trophy's earn rate is heading by the
 case target, and writes five quantiles per trophy.
 
-[![make.fun bounty](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![bounty](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
 [![entry rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/rohitchanuwu69-bot/gta6-trophy-rarity-forecast-01-v6/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
 [![entry reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/rohitchanuwu69-bot/gta6-trophy-rarity-forecast-01-v6/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
 
